@@ -1,0 +1,6 @@
+Username,Compound Score,Negative Score,Neutral Score,Postive Score
+@NYtimes,0.008,0.065,0.869,0.066
+@BBC,0.111,0.058,0.839,0.102
+@CNN,-0.017,0.072,0.862,0.066
+@FoxNews,-0.021,0.081,0.851,0.068
+@CBSNews,-0.053,0.096,0.837,0.067
